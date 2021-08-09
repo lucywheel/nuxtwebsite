@@ -1,13 +1,12 @@
 # NuxtWebsite [WIP]
 
-> A simple Nuxt.js setup to create websites with blog feature using Storyblok as CMS and Netlify to deploy it.
+> Простая сборка проекта на Nuxt.js с блогом на Storyblok CMS и деплоем с Netlify.
+> Более подробно о том, как это работает, в документации [Nuxt.js docs](https://github.com/nuxt/nuxt.js) и [Storyblok](https://www.storyblok.com/).
 
 ## Preview:
 
 http://quizzical-wing-54a27d.netlify.com/
 
-## Getting Started
-Will be done after Seed script is ready.
 
 ## Build Setup
 
@@ -25,8 +24,6 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js) and [Storyblok](https://www.storyblok.com/).
 
 ## Features / Todo
 
@@ -49,15 +46,8 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 - [x] Add Basic Header
 - [x] Add Basic Footer with Link to Github
 - [x] Basic Header Stylings
-- [ ] Maintenable Header
 - [x] Automatically optimize images using Storybloks Image Service
 - [x] Enable Storyblok Live Preview & Side By Side editing
 - [x] Add and Optimize images to Markdown
-- [ ] Export basic styles into variables
 - [x] Implement nuxt generate for routes
-- [ ] On Generate: Switch from Draft to Published content version
-- [ ] Seed Components
-- [ ] Seed Script
-- [ ] Getting Started Guide 
 - [x] Netlify Deployment
-- [ ] more more more?
